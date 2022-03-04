@@ -1,6 +1,6 @@
 ## Tomislav Dobrički
 From Subotica, Serbia.
-Currently raduate student at Chung-Ang university in Seoul, South Korea.
+Currently a graduate student at Chung-Ang university in Seoul, South Korea.
 
 
 ### Papers
