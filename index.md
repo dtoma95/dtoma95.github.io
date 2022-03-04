@@ -5,8 +5,8 @@ Currently raduate student at Chung-Ang university in Seoul, South Korea.
 
 ### Papers
 
-[2019 - International Conference on Information Society and Techology](https://www.eventiotic.com/eventiotic/library/paper/442)
-[_Generating images to fool trained neural networks using simple search algorithm_](https://www.eventiotic.com/eventiotic/library/paper/442)
+[2019 - International Conference on Information Society and Techology
+_Generating images to fool trained neural networks using simple search algorithm_](https://www.eventiotic.com/eventiotic/library/paper/442)
 
 
 
