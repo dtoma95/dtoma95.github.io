@@ -41,7 +41,7 @@ The input documents are collected from the official [website](http://www.pravno-
 2018-2019 : Master's Degree in Software Engineering and Information Technologies
 University of Novi Sad, Serbia 
 
-2014-2018 : Bachelor in Software Engineering and Information Technologies
+2014-2018 : Bachelor Degree in Software Engineering and Information Technologies
 University of Novi Sad, Serbia 
 
 
