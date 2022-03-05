@@ -12,7 +12,7 @@ _Generating images to fool trained neural networks using simple search algorithm
 ## Github projects
 
 ### MMR Estimation of players in the game DOTA 2 based on match history. (Master's Thesis)
-[Repository] (https://github.com/dtoma95/dota2_mmr_estimation)
+[Repository](https://github.com/dtoma95/dota2_mmr_estimation)
 
 This project encompasses:
 - Collecting a large database of DOTA2 player's match history and MMR
@@ -22,14 +22,14 @@ This project encompasses:
 
 
 ### Generating images to fool trained neural networks using simple search algorithm. (Bachelor's Thesis)
-[Repository] (https://github.com/dtoma95/Soft_computing_picture_generation)
+[Repository](https://github.com/dtoma95/Soft_computing_picture_generation)
 
 Exploring ways to perform adverserial attacks using bruteforce-like methods on neural networks trained for classification tasks.
 
 
 
 ### Converting Legal documents of the Republic of Serbia to the Akoma Ntoso standard
-[Repository] (https://github.com/dtoma95/converting_rs_legal_acts_to_akoma_ntoso)
+[Repository](https://github.com/dtoma95/converting_rs_legal_acts_to_akoma_ntoso)
 
 This project collects legal documents written in plaintext or simple html formats and converts them to the Akom Ntoso standardized xml format for legal documents.
 
