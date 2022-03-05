@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Tomislav Dobrički
+From Subotica, Serbia.
+Currently a graduate student at Chung-Ang university in Seoul, South Korea.
 
-You can use the [editor on GitHub](https://github.com/dtoma95/dtoma95.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Interested in doing reasearch related to Artificial Inteligence and the use of AI in the scientific domain such as Biology, Physics etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Papers
 
-### Markdown
+[2019 - International Conference on Information Society and Techology
+_Generating images to fool trained neural networks using simple search algorithms_](https://www.eventiotic.com/eventiotic/library/paper/442)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Github projects
 
-```markdown
-Syntax highlighted code block
+### MMR Estimation of players in the game DOTA 2 based on match history. (Master's Thesis)
+[Repository](https://github.com/dtoma95/dota2_mmr_estimation)
 
-# Header 1
-## Header 2
-### Header 3
+This project encompasses:
+- Collecting a large database of DOTA2 player's match history and MMR
+- Augmenting the collected data for different kinds of neural network training tasks.
+- Training several neural network architectures including an RNN, CNNs and normal a perceptron network in order to discover the optimal architecture type for the presented task. 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Generating images to fool trained neural networks using simple search algorithm. (Bachelor's Thesis)
+[Repository](https://github.com/dtoma95/Soft_computing_picture_generation)
 
-[Link](url) and ![Image](src)
-```
+Exploring ways to perform adverserial attacks using bruteforce-like methods on neural networks trained for classification tasks.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dtoma95/dtoma95.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Converting Legal documents of the Republic of Serbia to the Akoma Ntoso standard
+[Repository](https://github.com/dtoma95/converting_rs_legal_acts_to_akoma_ntoso)
 
-### Support or Contact
+This project collects legal documents written in plaintext or simple html formats and converts them to the Akom Ntoso standardized xml format for legal documents.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The input documents are collected from the official [website](http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/fp/news) of the government of the Republic of Serbia.
+
+
+
+## Alma mater
+2018-2019 : Master's Degree in Software Engineering and Information Technologies
+University of Novi Sad, Serbia 
+
+2014-2018 : Bachelor Degree in Software Engineering and Information Technologies
+University of Novi Sad, Serbia 
+
